@@ -1,15 +1,15 @@
-1.
-2.
+1. Jak sie macie?
+2. Git :)
 3. Wszystko jest jasne! Brak pytań :)
 4.
 5.
-6.
+6. Test 
 7.
 8.
 9.
 10.
-11.
-12.
+11.dobre szkolenie
+12. W jakiej sytuacji warto korzystac z git patch?
 13.
 14.
 15.
