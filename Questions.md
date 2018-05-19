@@ -1,6 +1,6 @@
 1.
 2.
-3.
+3. Wszystko jest jasne! Brak pytań :)
 4.
 5.
 6.
